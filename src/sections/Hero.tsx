@@ -14,7 +14,7 @@ export function Hero({ onShopNow }: HeroProps) {
         <div className="relative h-[85vh] overflow-hidden">
           <img
             src="/images/product-2.png"
-            alt="Fresh Rebellion Collection"
+            alt="NEWFRESHREBBULUM Collection"
             className="w-full h-full object-cover object-center"
           />
           {/* Subtle overlay for text readability */}
@@ -28,7 +28,7 @@ export function Hero({ onShopNow }: HeroProps) {
               New Collection
             </p>
             <h1 className="text-5xl lg:text-7xl font-light text-white mb-6 tracking-tight">
-              Fresh<br />Rebellion
+              NEWFRESHREBBULUM
             </h1>
             <p className="text-white/80 max-w-md mb-8 text-lg">
               Atlanta-based streetwear. 13 years of authentic style.

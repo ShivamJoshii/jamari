@@ -32,11 +32,11 @@ export const products: Product[] = [
   },
   {
     id: '3',
-    name: 'Fresh Rebellion Logo Tee - Black',
+    name: 'NEWFRESHREBBULUM Logo Tee - Black',
     category: 'shirt',
     price: 30,
-    description: 'Classic black tee with the Fresh Rebellion star logo. Essential wardrobe piece.',
-    slug: 'fresh-rebellion-logo-tee-black',
+    description: 'Classic black tee with the NEWFRESHREBBULUM star logo. Essential wardrobe piece.',
+    slug: 'newfreshrebbulum-logo-tee-black',
     featured: true,
     image: '/images/product-4.png',
     variants: [
@@ -64,7 +64,7 @@ export const products: Product[] = [
     name: 'Complete Collection Set',
     category: 'shirt',
     price: 75,
-    description: 'Full Fresh Rebellion collection featuring all signature designs. Limited availability.',
+    description: 'Full NEWFRESHREBBULUM collection featuring all signature designs. Limited availability.',
     slug: 'complete-collection-set',
     featured: false,
     image: '/images/product-3.png',

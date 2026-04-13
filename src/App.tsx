@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Navigation } from '@/components/Navigation';
 import { CartDrawer } from '@/components/CartDrawer';
+import { ImagePreloader } from '@/components/ImagePreloader';
 import { Hero } from '@/sections/Hero';
 import { FeaturedProducts } from '@/sections/FeaturedProducts';
 import { BrandStory } from '@/sections/BrandStory';
@@ -119,6 +120,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-white">
+      <ImagePreloader />
       <Navigation 
         currentPage={currentPage} 
         onPageChange={setCurrentPage} 

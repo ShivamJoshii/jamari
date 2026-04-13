@@ -58,7 +58,7 @@ export function Navigation({ currentPage, onPageChange }: NavigationProps) {
             onClick={() => handleNavClick('home')}
             className="absolute left-1/2 transform -translate-x-1/2 text-xl font-semibold tracking-widest uppercase"
           >
-            Jamari
+            NEWFRESHREBBULUM
           </button>
 
           {/* Right Side */}
