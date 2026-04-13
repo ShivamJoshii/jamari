@@ -7,7 +7,7 @@ export function BrandStory() {
           <div className="relative aspect-[4/5] overflow-hidden">
             <img
               src="/images/product-1.png"
-              alt="Jamari Brand"
+              alt="NEWFRESHREBBULUM Brand"
               className="w-full h-full object-cover"
             />
           </div>
@@ -24,7 +24,7 @@ export function BrandStory() {
             
             <div className="space-y-6 text-gray-600 leading-relaxed">
               <p>
-                For 13 years, Jamari has been at the intersection of music and streetwear culture. 
+                For 13 years, NEWFRESHREBBULUM has been at the intersection of music and streetwear culture. 
                 What started as a passion project in Atlanta has grown into a movement that 
                 represents authentic style and creative expression.
               </p>

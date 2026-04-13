@@ -18,7 +18,7 @@ export function Footer({ onPageChange }: FooterProps) {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
           {/* Brand Column */}
           <div className="md:col-span-2">
-            <h3 className="text-xl font-semibold tracking-widest uppercase mb-4">Jamari</h3>
+            <h3 className="text-xl font-semibold tracking-widest uppercase mb-4">NEWFRESHREBBULUM</h3>
             <p className="text-gray-500 mb-6 max-w-sm">
               Atlanta-based streetwear brand blending music and fashion for over 13 years. 
               Limited drops. Real culture.
@@ -127,7 +127,7 @@ export function Footer({ onPageChange }: FooterProps) {
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-gray-100 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-400 text-sm">
-            {currentYear} Jamari. All rights reserved.
+            {currentYear} NEWFRESHREBBULUM. All rights reserved.
           </p>
           <div className="flex items-center space-x-6 text-sm text-gray-400">
             <button className="hover:text-black transition-colors">

@@ -41,7 +41,7 @@ export function SuccessPage({ onContinue }: SuccessPageProps) {
         {/* Contact */}
         <div className="flex items-center justify-center space-x-2 text-gray-400 text-sm mb-8">
           <Mail className="w-4 h-4" />
-          <span>contact@jamari.store</span>
+          <span>contact@newfreshrebbulum.store</span>
         </div>
 
         {/* CTA */}

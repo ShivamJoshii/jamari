@@ -19,7 +19,7 @@ export function CurrentDropBanner({ onShopNow }: CurrentDropBannerProps) {
             </h2>
             <p className="text-white/70 text-lg mb-8 max-w-md">
               Small batch release. Once they're gone, they're gone. 
-              Don't sleep on the latest pieces from Fresh Rebellion.
+              Don't sleep on the latest pieces from NEWFRESHREBBULUM.
             </p>
             <Button
               onClick={onShopNow}
